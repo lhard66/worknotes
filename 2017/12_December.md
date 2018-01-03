@@ -97,3 +97,7 @@
 ## 1.1 Monday
 1. 处理审车bug
 2. 优化会员详情。
+
+## 1.2 Thuesday
+1. 审车完成。
+2. TypeScript开始。
