@@ -101,3 +101,7 @@
 ## 1.2 Thuesday
 1. 审车完成。
 2. TypeScript开始。
+
+## 1.2 Thuesday
+1. 审车优化及需求修改。
+2. TypeScript与Vue结合使用。
