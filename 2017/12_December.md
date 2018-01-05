@@ -94,14 +94,18 @@
 
 # 1月1日 -- 1月7日
 
-## 1.1 Monday
+## 1.2 Thuesday
 1. 处理审车bug
 2. 优化会员详情。
 
-## 1.2 Thuesday
+## 1.3 Wednesday
 1. 审车完成。
 2. TypeScript开始。
 
-## 1.2 Thuesday
+## 1.4 Thursday
 1. 审车优化及需求修改。
 2. TypeScript与Vue结合使用。
+
+## 1.5 Friday
+1. 审车。
+2. TypeScript与Vue结合，其它未明白的知识点。
