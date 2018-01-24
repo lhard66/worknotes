@@ -75,3 +75,7 @@
 2. 会员优化。
 3. TypeScript一章。
 4. css一章。
+
+## 1.24 Wednesday
+1. 会员bug修复。
+2. 搭建TypeScript框架。
