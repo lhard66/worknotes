@@ -79,3 +79,8 @@
 ## 1.24 Wednesday
 1. 会员bug修复。
 2. 搭建TypeScript框架。
+
+## 1.24 Thursday
+1. 商家后台地图问题。
+2. 超级管理员操作显示问题。
+3. css一章。
