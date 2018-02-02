@@ -101,3 +101,6 @@
 ## 1.30 Tuesday
 1. css书。
 2. typescript教程。
+
+## 2.2 Friday
+1. 博客启头，并可以正常部署。
