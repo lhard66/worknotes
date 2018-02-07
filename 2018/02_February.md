@@ -6,3 +6,6 @@
 
 ## 2.7 Wednesday
 1. js枚举研究及文章。
+
+## 2.8 Thursday
+1. js枚举博客。
