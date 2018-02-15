@@ -30,3 +30,7 @@
 ## 2.13 Tuesday
 1. css列表和生成内容。
 2. 深度工作总结。
+
+## 2.14 Wednesday
+1. generator与promise。
+2. css完结。
