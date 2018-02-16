@@ -31,6 +31,9 @@
 1. css列表和生成内容。
 2. 深度工作总结。
 
-## 2.14 Wednesday
+## 2.15 Thursday
 1. generator与promise。
 2. css完结。
+
+## 2.16 Friday
+1. ES6 Iterator总结，加深理解。
