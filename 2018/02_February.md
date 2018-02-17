@@ -37,3 +37,6 @@
 
 ## 2.16 Friday
 1. ES6 Iterator总结，加深理解。
+
+## 2.17 Saturday
+1. ES6 Generator总结，加深理解。
