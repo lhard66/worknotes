@@ -40,3 +40,6 @@
 
 ## 2.17 Saturday
 1. ES6 Generator总结，加深理解。
+
+## 2.18 Funday
+1. 拉勾和boss上个人简历完成。
