@@ -43,3 +43,6 @@
 
 ## 2.18 Funday
 1. 拉勾和boss上个人简历完成。
+
+## 2.19 Monday
+1. 樊登读书和kindle
