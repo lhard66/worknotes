@@ -53,3 +53,7 @@
 ## 2.23 Friday
 1. vue双向绑定。
 2. webapp适配问题。
+
+## 2.24 Saturday
+1. vue原理总结。
+2. webapp学习。
