@@ -17,3 +17,7 @@
 
 ## 3.11 Funday
 1. 搭建vue基础框架，包含vuex和iview
+
+## 3.12 Monday
+1. 电脑基础开发环境搭建。
+2. appoint-house项目。
