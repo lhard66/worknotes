@@ -21,3 +21,8 @@
 ## 3.12 Monday
 1. 电脑基础开发环境搭建。
 2. appoint-house项目。
+
+## 3.13 Tuesday
+1. vuex研究。
+2. iview开始学习。
+3. flex看完。
