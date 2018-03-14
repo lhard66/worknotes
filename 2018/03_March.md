@@ -26,3 +26,8 @@
 1. vuex研究。
 2. iview开始学习。
 3. flex看完。
+
+## 3.14 Wednesday
+1. vuex完成结。
+2. iview阅读重要组件api，并练习使用。
+3. flex阮老师博文，练习管理系统部署。
