@@ -18,5 +18,27 @@
 ## 3.11 Funday
 1. 搭建vue基础框架，包含vuex和iview
 
-## 3.12 Saturday
+## 3.12 Monday
+1. 电脑基础开发环境搭建。
+2. appoint-house项目。
+
+## 3.13 Tuesday
+1. vuex研究。
+2. iview开始学习。
+3. flex看完。
+
+## 3.14 Wednesday
+1. vuex完成结。
+2. iview阅读重要组件api，并练习使用。
+3. flex阮老师博文，练习管理系统部署。
+
+## 3.15 Thursday
+1. 研究完全版vue，与只有运行时vue的区别。
+2. 处理遗留的便签问题。
+
+## 3.16 Friday
+1. 研究iview，创建新项目，为组件开发搭建好基础架构。
+
+## 3.17 Saturday
 1. 基础组件项目搭建完毕。
+
