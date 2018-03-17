@@ -17,3 +17,6 @@
 
 ## 3.11 Funday
 1. 搭建vue基础框架，包含vuex和iview
+
+## 3.12 Saturday
+1. 基础组件项目搭建完毕。
