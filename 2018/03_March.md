@@ -76,3 +76,11 @@
 ## 3.26 Monday
 1. 工作总结，参照手机上。
 2. webpack打包问题看办法讨论想办法解决。
+
+## 3.27 Tuesday
+1. 研究webpack打包遗留问题。
+2. vue-loader
+
+## 3.28 Wednesday
+1. vue-loader说明完成。
+2. 后台管理系统框架开始，制定框架方向。
