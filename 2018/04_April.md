@@ -55,6 +55,7 @@
 10. 设计目录层次，core、modules
 11. easy mock
 12. 设计home标签。
+13. 增加顶部加载进度条。
 13. ...
 
 ## 4.13 Friday
