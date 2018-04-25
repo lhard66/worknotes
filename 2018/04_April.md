@@ -109,3 +109,9 @@
 ## 4.25 Wednesday
 1. 完成api管理模块查重检查方法
 2. 完成项目框架枚举。
+
+## 4.26 Thursday
+1. 检查接口管理模块的key值唯一无两。
+2. api的commonPost/commonGet位置调整。
+3. router模块精简。
+4. 枚举模块开发。
