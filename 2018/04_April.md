@@ -111,7 +111,13 @@
 2. 完成项目框架枚举。
 
 ## 4.26 Thursday
-1. 检查接口管理模块的key值唯一无两。
-2. api的commonPost/commonGet位置调整。
-3. router模块精简。
+1. 检查接口管理模块的key值唯一无两。完成！
+2. api的commonPost/commonGet位置调整。完成！
+3. router模块精简，只有path。完成！
 4. 枚举模块开发。
+5. 删除dget。
+
+## 4.27 Friday
+1. 删除dget方法。
+2. 枚举模块开发开始。
+
