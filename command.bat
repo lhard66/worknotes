@@ -1,5 +1,5 @@
-
-cd F:/hualala/doc/jgrmDocuments
+cd /d F:
+cd hualala/doc/jgrmDocuments
 echo "Start to publish...\n"
 git add .
 git commit -m 'log'
