@@ -67,4 +67,4 @@
 2. 看node
 3. test.test.test.test666.test888
 4. test over.22\n -e echo
-5. beauty
+5. beauty.perfect.
