@@ -11,3 +11,4 @@ git commit -m 'log'
 git push origin master
 # 删除缓存 
 echo "Success\n";
+pause
