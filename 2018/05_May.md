@@ -65,6 +65,3 @@
 ## 5.12 Saturday
 1. 优化图片，改为字体图标。
 2. 看node
-3. test.test.test.test666.test888
-4. test over.22\n -e echo
-5. beauty.perfect.
