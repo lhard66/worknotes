@@ -1,7 +1,6 @@
 #! /bin/bash
 # 保存当前目录
-F
-cd hualala/doc/jgrmDocuments
+cd F:/hualala/doc/jgrmDocuments
 echo "Start to publish...\n"
 # 切换到项目目录
 #cd /usr/local/nginx/html/blog
