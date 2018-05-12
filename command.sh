@@ -1,6 +1,6 @@
 #! /bin/bash
 # 保存当前目录
-F:
+F
 cd hualala/doc/jgrmDocuments
 echo "Start to publish...\n"
 # 切换到项目目录
