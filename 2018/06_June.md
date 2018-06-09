@@ -15,3 +15,8 @@
 ## 6.07 Thursday
 1. 填制凭证完成。
 2. 组件层次改变。
+
+## 6.09 Saturday
+1. 使用include实现组件指定alive缓存。
+2. 研究多页面应用。MPA
+3. 学习lodash API
