@@ -29,3 +29,7 @@
 ## 7.23 wednesday
 1. 完成多页面系统打包部署。
 2. 修改bug。
+
+## 7.23 Thursday
+1. 无entryCode，则提示，而非报错。
+2. 从router配置里面拿compontents，是一个promise；然后通过async await拿到；最后通过render渲染出来。
