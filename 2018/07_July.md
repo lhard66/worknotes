@@ -33,3 +33,7 @@
 ## 7.23 Thursday
 1. 无entryCode，则提示，而非报错。
 2. 从router配置里面拿compontents，是一个promise；然后通过async await拿到；最后通过render渲染出来。
+
+## 7.24 Friday
+1. 框架数据流从上到小，而非分散。数据全部加载完成后，取消loading。
+2. 弹出框宽度支持配置。
