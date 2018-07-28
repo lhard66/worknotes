@@ -31,10 +31,16 @@
 2. 修改bug。
 
 ## 7.23 Thursday
-1. 无entryCode，则提示，而非报错。
-2. 从router配置里面拿compontents，是一个promise；然后通过async await拿到；最后通过render渲染出来。
+1. 无entryCode，则提示，而非报错。完成。
+2. 从router配置里面拿compontents，是一个promise；然后通过async await拿到；最后通过render渲染出来。完成。
 
 ## 7.24 Friday
 1. 框架数据流从上到小，而非分散。数据全部加载完成后，取消loading。
 2. 弹出框 宽度 和 高度 支持配置。
 3. 加载的时候，遮罩会盖住菜单。
+4. 打包去掉console，考虑是否通过变量控件是否去掉。
+5. 菜单要有隔行；选中一个菜单，大类项目要有颜色。
+6. 去掉router，检查bus是否有多余的data。
+7. 总帐每次搜索的条件都要存储在localstorage。
+8. 优化登陆，增加图标。点击登陆，显示登陆中。如果报错，登陆中还原为登陆。
+9. 
