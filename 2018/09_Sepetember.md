@@ -50,3 +50,4 @@
 
 ### 9.19 Thursday
 1. 增加toolbar的disabledKeys和hiddenKeys，业务可能会传过来。
+2. 完成权限新需求。
