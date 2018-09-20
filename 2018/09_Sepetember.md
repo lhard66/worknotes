@@ -49,5 +49,9 @@
 ## 9月17日 -- 9月23日
 
 ### 9.19 Thursday
-1. 增加toolbar的disabledKeys和hiddenKeys，业务可能会传过来。
-2. 完成权限新需求。
+1. 增加toolbar的disabledKeys和hiddenKeys，业务可能会传过来。完成！
+2. 完成权限新需求。完成！
+
+### 9.20 Friday
+1. 菜单栏的权限功能。
+2. 单价、数量、金额组件快速使用方式。
