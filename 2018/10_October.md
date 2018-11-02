@@ -92,4 +92,5 @@
 1. 完成栏目需求。
 
 ### 11.2 Friday
-1. core/style下内容使用scss打包，生成的css放入styles文件夹下。以解决内存溢出问题。
+1. core/style下内容使用scss打包，生成的css放入styles文件夹下。以解决内存溢出问题。完成！
+2. 存放位置修改。完成！
