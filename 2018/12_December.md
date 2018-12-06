@@ -12,7 +12,10 @@
 3. 刷新tab消失问题。完成！
 4. 登陆页面记录帐号问题。完成！
 
-4. index.html不缓存js。
-6. 搜索框。
-7. 组件样式。
-8. 总帐查询参数优化，清除多余项。例：pageInfo accountID tenantID
+### 12.06 Thursday
+1. 组件样式。
+2. 总帐查询参数优化，清除多余项。例：pageInfo accountID tenantID。
+3. 税率bug。
+
+
+1. 搜索框。
