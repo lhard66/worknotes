@@ -42,18 +42,17 @@
 3. 上传组件上传第二次没有反映。完成！
 
 ### 1.16 Wednesday
-1. 资产详情拆分业务和工具条联动。
-2. 测试会计科目问题。完成！
-3. 允许连续请求。
-4. 修改会计期间的默认启用期间。
+1. 测试会计科目问题。完成！
+2. 允许连续请求。完成！
+3. 修改会计期间的默认启用期间。完成！
 
+### 1.16 Thursday
+1. 资产详情拆分业务和工具条联动。
+2. 请求错误弹窗url参数优化。
 3. 解决新增时checkbox赋值问题，必须点击一下。
 
 
-1. url参数优化。
-2. 滚动条下拉后切换标签不记录位置。
 3. url地址与页面表现不一致问题。
 4. api地址重复打包和按业务分模块。
 6. 标签关闭方法优化。
-9 https://mp.weixin.qq.com/s?__biz=MjM5NTU0MDg0MA==&mid=2651239382&idx=1&sn=5a89c0fd310e6573a69715ec8d7201d1&chksm=bd04e9d18a7360c7f7117dd21ba13b9aa0eb90822db5dc8c650f371b579a80688e40d2937de3&mpshare=1&scene=1&srcid=#rd
-搭建自动化测试框架
+9  搭建自动化测试框架。https://mp.weixin.qq.com/s?__biz=MjM5NTU0MDg0MA==&mid=2651239382&idx=1&sn=5a89c0fd310e6573a69715ec8d7201d1&chksm=bd04e9d18a7360c7f7117dd21ba13b9aa0eb90822db5dc8c650f371b579a80688e40d2937de3&mpshare=1&scene=1&srcid=#rd
