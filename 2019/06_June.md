@@ -60,6 +60,10 @@
 1. 研究DropList输入即搜索方案。
 2. 尝试在项目中替换vuex。
 
+### 6.25 Tuesday
+1. vuex替换原因总结。
+2. DropList输入即搜索。
+
 
 1. 去掉接口请求后的?uid。
 
