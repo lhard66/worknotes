@@ -31,7 +31,10 @@
 1. DropList输入即搜索。完成！
 
 ### 7.10 Wednesday
-1. 360浏览器，对应的内核为8.0，webpack报错。
+1. 360浏览器，对应的内核为8.0，webpack报错。问题：lodash的_objectToString.js报错。
+2. 修改BUG。
+3. vuex替换工作。
+   1. 
 
 优化：
 1. url地址与页面表现不一致问题。
