@@ -32,8 +32,11 @@
 
 ### 7.10 Wednesday
 1. 360浏览器，对应的内核为8.0，webpack报错。问题：lodash的_objectToString.js报错。
-2. 修改BUG。
-3. vuex替换工作。
+2. 修改BUG。完成！
+
+### 7.11 Tuesday
+1. 封装期间组件。
+2. vuex替换工作。
    1. 
 
 优化：
