@@ -5,12 +5,16 @@
 
 ### 8.07 Wednesday
 1. 辅助核算弹窗
-   1. 页面加载计算显示合计。
-   2. 数据变动动态计算合计。
-   3. 清空功能。
-   4. 辅助项UI及功能。
-   5. 提取数据UI及功能。
+   1. 页面加载计算显示合计。完成！
+   2. 数据变动动态计算合计。完成！
+   3. 辅助项UI及功能。完成！
+
+### 8.08 Thursday
+1. 辅助核算弹窗
+   1. 清空功能。
+   2. 提取数据UI及功能。
 2. 关闭弹窗，页面显示弹窗数据。
+3. 实现页面保存功能。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
