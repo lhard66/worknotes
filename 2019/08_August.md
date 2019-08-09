@@ -11,11 +11,17 @@
 
 ### 8.08 Thursday
 1. 辅助核算弹窗
-   1. 清空功能。
-   2. 提取数据UI及功能。
-2. 关闭弹窗，页面显示弹窗数据。
-3. 实现页面保存功能。
+   1. 提取数据UI。完成！
+   2. 提取数据功能。剩余递归赋值给formData。
 
+### 8.09 Friday
+1. 辅助核算弹窗
+   1. 清空功能。
+   2. 提取数据功能：递归赋值给formData。
+2. 关闭弹窗，页面显示弹窗数据。
+
+3. 实现页面保存功能。
+4. 菜用弹窗cloneDeep死循环问题。
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
 
