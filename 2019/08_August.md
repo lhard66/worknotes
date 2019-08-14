@@ -28,15 +28,17 @@
 4. 清空页面数据。完成！
 
 ### 8.13 Tuesday
-1. 输入金额，合并不自动计算问题。
-2. 导出excel功能。
-3. 打印功能。
-4. 过滤功能。
+1. 输入金额，合并不自动计算问题。完成！
+2. 导出excel功能。完成！
+3. 下载和导入excel功能。完成！
+4. 菜用弹窗cloneDeep死循环问题。完成！
 
-1. 提取数据。
+### 8.14 Wednesday
+1. 打印功能。
+2. 过滤功能。
+3. 提取数据。
 
 
-4. 菜用弹窗cloneDeep死循环问题。
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
 
