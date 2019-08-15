@@ -36,7 +36,8 @@
 ### 8.14 Wednesday
 1. 打印功能。
 2. 过滤功能。
-3. 提取数据。
+3. 提取数据。功能放弃，注释此按钮。
+4. 设置列应传入全量数据的code，进行筛选。
 
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
