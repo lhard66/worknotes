@@ -34,10 +34,14 @@
 4. 菜用弹窗cloneDeep死循环问题。完成！
 
 ### 8.14 Wednesday
+1. 过滤功能。完成！
+2. 提取数据。功能放弃，注释此按钮。完成！
+3. 设置列应传入全量数据的code，进行筛选。完成！
+
+### 8.15 Thursday
 1. 打印功能。
-2. 过滤功能。
-3. 提取数据。功能放弃，注释此按钮。
-4. 设置列应传入全量数据的code，进行筛选。
+2. 不保存关闭时提示。
+3. 新增开账期间。
 
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
