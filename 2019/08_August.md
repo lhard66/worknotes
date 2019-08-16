@@ -38,11 +38,17 @@
 2. 提取数据。功能放弃，注释此按钮。完成！
 3. 设置列应传入全量数据的code，进行筛选。完成！
 
-### 8.15 Thursday
-1. 打印功能。
-2. 不保存关闭时提示。
-3. 新增开账期间。
+### 8.16 Firday
+1. 打印功能。完成初始化！
+2. 不保存关闭时提示。完成！
+3. 关闭按钮适配。完成！
 
+## 8月19日 -- 8月25日
+
+### 8.19 Monday
+1. 打印功能完成并测试。
+2. 新增开账期间。
+1. 凭证导出。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
