@@ -46,9 +46,13 @@
 ## 8月19日 -- 8月25日
 
 ### 8.19 Monday
-1. 打印功能完成并测试。
-2. 新增开账期间。
-1. 凭证导出。
+1. 打印功能完成并测试。完成！
+2. 新增开账期间。完成！
+
+### 8.20 Tuesday
+1. 合计计算要根据方向确定。
+2. 禅道其他任务。
+2. 凭证导出。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
