@@ -51,8 +51,9 @@
 
 ### 8.20 Tuesday
 1. 合计计算要根据方向确定。
-2. 禅道其他任务。
-2. 凭证导出。
+2. 会计参数测试。
+3. 凭证导出。
+
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
