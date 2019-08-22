@@ -54,7 +54,12 @@
 2. 会计参数测试。完成！
 
 ### 8.21 Wednesday
-1. 凭证导出。
+1. 凭证导出。完成！
+
+### 8.22 Thursday
+1. 凭证导出权限。
+2. 路由报错问题。
+3. 打印条形码。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
