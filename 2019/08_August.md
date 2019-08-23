@@ -57,9 +57,14 @@
 1. 凭证导出。完成！
 
 ### 8.22 Thursday
-1. 凭证导出权限。
-2. 路由报错问题。
-3. 打印条形码。
+1. 凭证导出权限。完成！
+2. 打印条形码。完成！
+3. 凭证列表页面死循环。完成！
+
+### 8.23 Friday
+1. 账号停用或到期，只能查看。
+2. img.height = 50 ?
+3. 路由报错问题。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
