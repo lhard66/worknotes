@@ -62,9 +62,16 @@
 3. 凭证列表页面死循环。完成！
 
 ### 8.23 Friday
-1. 账号停用或到期，只能查看。
-2. img.height = 50 ?
-3. 路由报错问题。
+1. 账号停用或到期，只能查看。完成！
+2. img.height = 50。element.style.marginTop = '10px';完成！
+
+## 8月26日 -- 9月01日
+
+### 8.26 Monday
+1. 禅道BUG。
+2. 路由报错问题。
+3. 账号停用或到期只能查看，添加title提示。
+4. 缓存功能优化。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
