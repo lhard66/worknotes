@@ -68,11 +68,16 @@
 ## 8月26日 -- 9月01日
 
 ### 8.26 Monday
-1. 禅道BUG。
-2. 路由报错问题。
-3. 账号停用或到期只能查看，添加title提示。
-4. 缓存功能优化。
+1. 禅道BUG。完成！
+2. 账号停用或到期只能查看，添加title提示。完成！
 
+### 8.27 Tuesday
+1. 显示商户名称。
+2. 修改开账期间。
+3. 过滤菜单。
+4. 路由报错问题。
+
+1. 缓存优化vuex。
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
 
