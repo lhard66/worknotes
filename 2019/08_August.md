@@ -72,12 +72,15 @@
 2. 账号停用或到期只能查看，添加title提示。完成！
 
 ### 8.27 Tuesday
-1. 显示商户名称。
-2. 修改开账期间。
-3. 过滤菜单。
-4. 路由报错问题。
+1. 显示商户名称。完成！
+3. 过滤菜单。完成！
+5. originalLogin方法移至utils中。完成！
 
-1. 缓存优化vuex。
+### 8.28 Wednesday
+1. 修改开账期间。
+2. 路由报错问题。
+3. 缓存优化vuex。
+
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
 
