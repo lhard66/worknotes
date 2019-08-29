@@ -77,9 +77,13 @@
 5. originalLogin方法移至utils中。完成！
 
 ### 8.28 Wednesday
-1. 修改开账期间。
-2. 路由报错问题。
-3. 缓存优化vuex。
+1. 修改开账期间。完成！
+
+### 8.29 Thursday
+1. 路由报错问题。可以忽略。
+2. 根据是否启用现金流量过滤菜单。
+3. 财务备案数据接口
+4. 缓存优化vuex。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
