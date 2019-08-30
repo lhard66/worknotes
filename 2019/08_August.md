@@ -81,9 +81,14 @@
 
 ### 8.29 Thursday
 1. 路由报错问题。可以忽略。
-2. 根据是否启用现金流量过滤菜单。
-3. 财务备案数据接口
-4. 缓存优化vuex。
+2. 根据是否启用现金流量过滤菜单。完成！其它等待接口。
+
+### 8.30 Friday
+1. 菜单路由之前，先判断路由是否重复。
+2. 缓存优化vuex。
+3. 财务备案数据接口。
+
+3. 看新需求。
 
 1. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
 1. 使用thread-loader加快打包速度。
