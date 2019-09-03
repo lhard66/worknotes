@@ -1,12 +1,17 @@
 ## 9月02日 -- 9月8日
 
 ### 9.2 Monday
-1. 缓存优化vuex。
-2. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。
-3. 财务备案数据接口。
+1. 财务备案数据接口。
+   1. 将config对象生成txt文件。
+2. 科目余额表中/api/tenant/accountPeriod/queryByYear.htmls及/api/tenant/accountInit/query.htmls添加缓存。完成！
 
+### 9.3 Tuesday
+1. 查漏补缺，上线准备。
+
+1. 功能列表放入全局，hasAuth要使用做判断。
 1. 看新需求。
 1. 使用thread-loader加快打包速度。
+1. 缓存优化vuex。
 
 优化：
 1. url地址与页面表现不一致问题。
