@@ -1,6 +1,6 @@
 #! /bin/bash
 # 保存当前目录
-cd F:/hualala/doc/jgrmDocuments
+cd F:/github/worknotes
 echo -e "\nHappy new day!\n"
 # 切换到项目目录
 #cd /usr/local/nginx/html/blog
