@@ -19,3 +19,6 @@
 ### 12.13 Friday
 1. 项目跑通。完成！
 2. 学习canvas。
+
+### 12.14 Saturday
+1. canvase共四章。
