@@ -21,4 +21,10 @@
 2. 学习canvas。
 
 ### 12.14 Saturday
-1. canvase共四章。
+1. canvas共四章。
+
+## 12月16日 -- 12月22日
+
+### 12.16 Monday
+1. canvas共两章
+2. 项目细节。
