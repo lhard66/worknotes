@@ -46,3 +46,9 @@
 ### 12.20 Friday
 1. canvas像素操作章节。
 2. 项目框架、事件处理大致流程。
+
+## 12月23日 -- 12月29日
+
+### 12.23 Monday
+1. read a property in canvas reference.
+2. study event and frame in webcad project.
