@@ -50,5 +50,9 @@
 ## 12月23日 -- 12月29日
 
 ### 12.23 Monday
-1. read a property in canvas reference.
-2. study event and frame in webcad project.
+1. Read a part of Colors, Styles and Shadows in canvas reference.over!
+2. Study event and frame in webcad project.over!
+
+### 12.24 Tuesday
+1. Read a part of Colors, Style and Shadows.
+2. write basic components document.
