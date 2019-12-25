@@ -56,3 +56,8 @@
 ### 12.24 Tuesday
 1. Read a part of Colors, Style and Shadows.
 2. write basic components document.
+
+### 12.25 Wednesday
+1. draw mind map of folders of basic components project.
+2. read a part of vue-cli reference.
+3. read a part of Colors, Styles and Shadows in canvas reference.
