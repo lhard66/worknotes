@@ -58,6 +58,11 @@
 2. write basic components document.
 
 ### 12.25 Wednesday
-1. draw mind map of folders of basic components project.
-2. read a part of vue-cli reference.
-3. read a part of Colors, Styles and Shadows in canvas reference.
+1. draw mind mapping of folders of basic components project.over!
+2. read a part of vue-cli reference.over!
+3. study xmind.over!
+
+### 12.26 Thursday
+1. read two parts of Colors, Styles and Shadows in canvas reference.
+2. study webpack-chain reference.
+3. complete webpack configuration of dfview project.
