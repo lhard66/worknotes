@@ -58,11 +58,19 @@
 2. write basic components document.
 
 ### 12.25 Wednesday
-1. draw mind mapping of folders of basic components project.over!
-2. read a part of vue-cli reference.over!
-3. study xmind.over!
+1. Draw mind mapping of folders of basic components project.over!
+2. Read a part of vue-cli reference.over!
+3. Study xmind.over!
 
-### 12.26 Thursday
-1. read two parts of Colors, Styles and Shadows in canvas reference.
-2. study webpack-chain reference.
-3. complete webpack configuration of dfview project.
+### 14.26 Thursday
+1. Study webpack-chain reference.over!
+2. Complete webpack configuration of dfview project.over!
+
+### 12.27 Friday
+1. 组件打包方案优化：
+   1. 基础组件项目打包分两类，这两个打包相互隔离，互不影响。组件打包不共用vue-cli-service内插件和loader，需单独安装。
+      1. 通过vue-cli-service打包帮助项目。
+      2. 通过webpack打包组件项目。
+   2. 增加vue-loader支持sass功能。
+2. Make standard of project.
+3. Study preference of new vue-loader version.
