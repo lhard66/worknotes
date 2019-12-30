@@ -68,9 +68,14 @@
 
 ### 12.27 Friday
 1. 组件打包方案优化：
-   1. 基础组件项目打包分两类，这两个打包相互隔离，互不影响。组件打包不共用vue-cli-service内插件和loader，需单独安装。
+   1. 基础组件项目打包分两类，这两个打包相互隔离，互不影响。组件打包不共用vue-cli-service内插件和loader，需单独安装。over!
       1. 通过vue-cli-service打包帮助项目。
       2. 通过webpack打包组件项目。
-   2. 增加vue-loader支持sass功能。
-2. Make standard of project.
-3. Study preference of new vue-loader version.
+   2. 增加vue-loader支持sass功能。over!
+2. Study preference of new vue-loader version.over!
+
+## 12月30日 -- 1月05日
+
+### 12.30 Monday
+1. Make standard rules of project.
+2. Carry out Button componet.
