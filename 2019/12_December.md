@@ -77,5 +77,8 @@
 ## 12月30日 -- 1月05日
 
 ### 12.30 Monday
-1. Make standard rules of project.
-2. Carry out Button componet.
+1. Make standard rules of project.over!
+
+### 12.31 Tuesday
+1. Carry out Button componet and reference.
+2. Read two parts of vue-cli reference.
