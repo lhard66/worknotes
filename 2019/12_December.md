@@ -80,5 +80,14 @@
 1. Make standard rules of project.over!
 
 ### 12.31 Tuesday
+1. configure vue-md-loader.
+2. Read two parts of vue-cli reference.over!
+
+### 1.1 Thursday
 1. Carry out Button componet and reference.
 2. Read two parts of vue-cli reference.
+
+
+1. vue-cli guide and configurations
+2. vue-load reference.
+3. geektime worker.
