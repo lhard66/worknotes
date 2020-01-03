@@ -90,9 +90,4 @@
 ### 1.2 Friday
 1. Write Button reference.
 2. Optimize reference page.
-3. Complete to read vue-cli reference.
-
-
-1. vue-cli guide and configurations
-2. vue-load reference.
-3. geektime worker.
+3. Read two parts of vue-cli reference.over!
