@@ -6,7 +6,7 @@ echo -e "\nHappy new day!\n"
 #cd /usr/local/nginx/html/blog
 # 执行git命令
 git add .
-git commit --message "log $(date +"%Y-%m-%d %H:%M.%S")"
+git commit --message "docs: plan $(date +"%Y-%m-%d %H:%M.%S")"
 echo -e "\nPlease wait! push...\n"
 git push origin master
 # 删除缓存 

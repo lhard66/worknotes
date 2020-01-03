@@ -5,4 +5,4 @@
 
 1. vue-cli guide and configurations
 2. vue-load reference.
-3. geektime worker. 
+3. geektime worker.  
