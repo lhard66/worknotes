@@ -85,7 +85,12 @@
 
 ### 1.1 Thursday
 1. Carry out Button componet and reference.
-2. Read two parts of vue-cli reference.
+2. Read two parts of vue-cli reference.over!
+
+### 1.2 Friday
+1. Write Button reference.
+2. Optimize reference page.
+3. Complete to read vue-cli reference.
 
 
 1. vue-cli guide and configurations
