@@ -88,6 +88,6 @@
 2. Read two parts of vue-cli reference.over!
 
 ### 1.2 Friday
-1. Write Button reference.
-2. Optimize reference page.
+1. Write Button reference.over!
+2. Optimize reference page.over!
 3. Read two parts of vue-cli reference.over!
