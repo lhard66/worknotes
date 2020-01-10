@@ -11,16 +11,21 @@
 2. Set prefix 'df' rather than prefix 'el' in Vue Devtools.try,but can't modify.
 
 ### 1.09 Thursday
+1. Initialize drawing project demo in order to test technology of project of embedded map.
+2. Make home page for basic components reference.over!
+
+### 1.10 Friday
+1. Make demo project Covering canvas on GaoDe map.
+   1. Show simple map using vue-amap component.
+   2. Creat simple canvas embedding GaoDe map.
+   3. Canvas zoom in or out with map.
+2. Deploy nginx server for basic components project.over!
+
+
 1. Script parts throw an exception in md files.
-2. Make demo project Covering canvas on gaode map.
-4. Make home page for basic components reference.over!
 
-
-2. md文件中增加script标签，报错。
-4. 高德地图集成canvas。
 
 ## TODO:
 1. vue-cli guide and configurations
 2. vue-load reference.
 3. geektime worker.  
-4. 总结：包应该放在devDependencies还是dependencies https://guxinyan.github.io/2017/11/02/%E5%8C%85%E5%BA%94%E8%AF%A5%E6%94%BE%E5%9C%A8devDependencies%E8%BF%98%E6%98%AFdependencies/
