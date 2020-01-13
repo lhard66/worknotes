@@ -16,13 +16,17 @@
 
 ### 1.10 Friday
 1. Make demo project Covering canvas on GaoDe map.
-   1. Show simple map using vue-amap component.
-   2. Creat simple canvas embedding GaoDe map.
+   1. Show simple map using vue-amap component.over!
+   2. Creat simple canvas embedding GaoDe map.over!
    3. Canvas zoom in or out with map.
 2. Deploy nginx server for basic components project.over!
 
+## 1月6日 -- 1月12日
 
-1. Script parts throw an exception in md files.
+### 1.13 Monday
+1. Canvas zoom in or out with map.
+2. Canvas move with map.
+3. Script parts throw an exception in md files.
 
 
 ## TODO:
