@@ -24,9 +24,11 @@
 ## 1月6日 -- 1月12日
 
 ### 1.13 Monday
-1. Canvas zoom in or out with map.
-2. Canvas move with map.
-3. Script parts throw an exception in md files.
+1. Canvas zoom in or out with map.over!
+2. Canvas move with map.over!
+
+### 1.14 Tuesday
+1. Script parts throw an exception in md files.
 
 
 ## TODO:
