@@ -28,10 +28,14 @@
 2. Canvas move with map.over!
 
 ### 1.14 Tuesday
-1. Script parts throw an exception in md files.
+1. Script parts throw an exception in md files.over!
+2. Read vue-cli preference.over!
+3. Write input preference.over!
+
+### 1.15 Wednesday
+1. Write basic components reference of Radio, Checkbox and Select.
+2. Read vue-load guide.
 
 
 ## TODO:
-1. vue-cli guide and configurations
-2. vue-load reference.
-3. geektime worker.  
+1. geektime worker.  
