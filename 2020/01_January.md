@@ -33,9 +33,18 @@
 3. Write input preference.over!
 
 ### 1.15 Wednesday
-1. Write basic components reference of Radio, Checkbox and Select.
-2. Read vue-load guide.
+1. Show and hide code blocks.over!
+2. Read vue-load guide.over!
 
+### 1.16 Thursday
+1. Add explained part in code block.
+2. Add emoji for md-loader.
+3. Study VuePress.
+4. Read the vue-loader guid.
+
+
+1. Write basic components reference of Radio, Checkbox and Select.
 
 ## TODO:
-1. geektime worker.  
+1. geektime worker.
+1. 研究vue-cli中webpack-chain内部实现。
