@@ -37,13 +37,15 @@
 2. Read vue-load guide.over!
 
 ### 1.16 Thursday
-1. Add explained part in code block.
-2. Add emoji for md-loader.
-3. Study VuePress.
-4. Read the vue-loader guid.
+1. Add explained part in code block.over!
+2. Add emoji for md-loader.over!
+3. Study VuePress.over!
+4. Read the vue-loader guid.over!
 
+### 1.17 Friday
+1. to go top at basic components project.
+2. Write basic components reference of Radio, Checkbox and Select.
 
-1. Write basic components reference of Radio, Checkbox and Select.
 
 ## TODO:
 1. geektime worker.
