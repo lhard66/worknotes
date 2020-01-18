@@ -43,10 +43,14 @@
 4. Read the vue-loader guid.over!
 
 ### 1.17 Friday
-1. to go top at basic components project.
-2. Write basic components reference of Radio, Checkbox and Select.
+1. To go top at basic components project.over!
+2. Write basic components reference of Radio, Checkbox and Select.over!
+3. Set global style variable.over!
+
+### 1.18 Saturday
+1. Study webpack-chian in vue-cli.
+2. Add two ways of form conponent.
 
 
 ## TODO:
 1. geektime worker.
-1. 研究vue-cli中webpack-chain内部实现。
