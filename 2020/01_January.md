@@ -50,7 +50,3 @@
 ### 1.18 Saturday
 1. Study webpack-chian in vue-cli.
 2. Add two ways of form conponent.
-
-
-## TODO:
-1. geektime worker.
