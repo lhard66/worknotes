@@ -10,7 +10,7 @@
 2. 安装sourcetree。
 
 ### 3.12 Wednesday
-1. form组件支持配置方式。
+1. form组件支持配置方式(以双向绑定的方式获取form数据集)。
    1. 编写form基础配置。
    2. 根据配置render出一个组件。
    3. 根据配置render出所有组件。
