@@ -9,7 +9,7 @@
 1. 初始化组件开发测试页面。
 2. 安装sourcetree。
 
-### 3.12 - 3.14 Wednesday Thursday Friday
+### 3.12 Wednesday
 1. form组件支持配置方式(以双向绑定的方式获取form数据集)。
    1. 编写form基础配置。完成！
    2. 根据配置render出一个组件。完成！
@@ -17,7 +17,18 @@
    4. 增加校验规则。
    5. 自定校验规则。
    6. 编写帮助文档。
-2. 解决element组件在jsx中双向绑定问题。原因model为关键字，需要使用props写法，完成。
+
+### 3.13 Thursday
+1. 编写form基础配置。完成！
+2. 根据配置render出一个组件。完成！
+
+### 3.14 Friday
+1. 解决model关键字渲染错误问题。解决：使用props属性传入model属性。完成！
+
+### 3.15 Saturday
+1. 根据配置render出所有组件。
+2. 增加校验规则。
+
 
 
 2. 部署nexus。
