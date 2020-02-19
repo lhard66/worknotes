@@ -34,9 +34,13 @@
 4. 任务总结。完成！
 
 ### 2.18 Tuesday
+1. 测试和搭建npm link。完成！
+2. eslint和babel中忽略dfview.min.js文件。完成！
+3. 日期选择组件。完成！
+
+### 2.19 Wednesday
 1. 根据配置render出所有组件。
 2. 增加校验规则。
-3. 日期选择组件。
 
 
 1. 配置webpack，实现eagle3.0多入口（登陆页面和主页面）。
