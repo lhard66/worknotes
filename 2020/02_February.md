@@ -45,12 +45,16 @@
 ### 2.20 Thursday
 1. render出表单一项测试完成。
 
-### 2.31 Friday
-1. 根据配置render出所有组件。
+### 2.21 Friday
+1. 接壮壮
+
+### 2.22 Saturday
+1. 根据配置render出text、select、datePicker、switcher、checkbox组件。
+
+### 2.23 Sunday
+1. 根据配置render出radio、textarea组件。
 2. 增加校验规则。
 3. 完成form表单封装。
-
-
 
 
 1. 配置webpack，实现eagle3.0多入口（登陆页面和主页面）。
