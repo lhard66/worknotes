@@ -60,12 +60,18 @@
 
 ### 2.24 Monday
 1. 腾讯《用jsx写vue组件》。完成！
-2. table组件封装。
-   1. 
+2. 支持配置方式实现table组件基础表格功能。
+   1. 编写table配置文件。完成！
+   2. 实现render方式显示一列。完成！
+   3. 实现render方式根据配置动态显示。完成！
+   4. 支持table组件属性。完成！
 
-
+### 2.25 Tuesday
 1. 配置webpack，实现eagle3.0多入口（登陆页面和主页面）。
 2. 开发登陆页面。
 
+
+1. 编写form和table组件开发文档。
+
 ## TODO:
-1. geektime worker.
+1. 极客时间专栏。
