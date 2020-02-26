@@ -67,8 +67,13 @@
    4. 支持table组件属性。完成！
 
 ### 2.25 Tuesday
+1. transmission 和 aria2
+
+### 2.26 Wednesday
 1. 配置webpack，实现eagle3.0多入口（登陆页面和主页面）。
 2. 开发登陆页面。
+3. 端口查看方法总结。
+4. ACL方法总结。
 
 
 1. 编写form和table组件开发文档。
