@@ -79,7 +79,15 @@
    3. 基础组件的情况。都用了那些第三方UI组件。
 
 ### 5.26 Tuesday
-1. 根据json数据导出为excel文件。
+1. 根据json数据导出为excel文件。完成！
+
+### 5.27 Wednesday
+1. 根据json导出文件。
+2. 移植到dfview项目。
+   1. 封装一个模块，文件夹名为excel。
+   2. 调用模块中的方法，传入json数据，导出excel文件。
+   3. table组件调用此方法，导出excel。
+   4. 将模块对象，暴露到外部。
 2. 优化eagle3中sytle文件夹样式。
 
 
