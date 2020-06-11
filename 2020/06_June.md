@@ -28,12 +28,15 @@
 1. dailog拖动，处理边界问题。完成！
 
 ### 6.10 Wednesday
+1. escharjs集成。完成！
+2. 了解mocha。
+
+### 6.11 Thursday
 1. 福建项目底层请求，参数转换方式优化。
 2. 若系统出错，则弹窗提醒。
-3. 集成eschartJS。
+3. eschartjs通过标签引入显示一个图表。
 
 
-1. 了解mocha
 4. 优化eagle3中sytle文件夹样式。
 3. 权限管理页面，布局、数据动态显示。
 1. table可编辑状态。
