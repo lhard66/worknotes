@@ -36,6 +36,11 @@
 2. PPTP VPN。
 
 ### 6.12 Friday
+1. aria2 & ariaNG
+
+## 6月15日 -- 6月21日
+
+### 6.15 Monday
 1. eschartjs通过标签引入显示一个图表。
 2. mocha文档。
 
