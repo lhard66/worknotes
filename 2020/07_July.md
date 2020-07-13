@@ -15,11 +15,18 @@
 
 ### 7.9 Thursday
 1. 福建项目图表页面。
-2. table组件支持编辑功能。
+
 
 ### 7.10 Friday
 1. 福建图表统计页面，图表展示完成。
-2. MessageBox组件，解决报错问题。
+
+## 7月13日 -- 7月19日
+
+### 7.13 Monday
+1. 文档：ehcarts 获取实例方法、datepicker文档。
+2. 添加formChange事件。
+3. table组件支持编辑功能。
+4. MessageBox组件，解决报错问题。
 
 
 1. 封装MessageBox组件，解决报错问题、研究源码。
