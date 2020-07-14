@@ -23,13 +23,19 @@
 ## 7月13日 -- 7月19日
 
 ### 7.13 Monday
-1. 文档：ehcarts 获取实例方法、datepicker文档。
-2. 添加formChange事件。
-3. table组件支持编辑功能。
-4. MessageBox组件，解决报错问题。
+1. 文档：ehcarts 获取实例方法、datepicker文档。完成！
+2. 封装MessageBox组件，解决报错问题、研究源码。参考源码开发，而非引入的方式。因为import vue时会报错。
+
+### 7.14 Tuesday
+1. 验证element是否已是按需引入打包。
+2. 查找使用externals排除vue后，报错问题。
+
+1. 添加formChange事件。
+2. table组件支持编辑功能。
 
 
-1. 封装MessageBox组件，解决报错问题、研究源码。
+
+
 1. 翻页参数修改。
 1. 将修改密码页面渲染到公共弹窗中。
 1. 雪碧图转icon图标。
