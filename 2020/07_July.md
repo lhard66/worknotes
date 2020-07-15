@@ -27,15 +27,16 @@
 2. 封装MessageBox组件，解决报错问题、研究源码。参考源码开发，而非引入的方式。因为import vue时会报错。
 
 ### 7.14 Tuesday
-1. 验证element是否已是按需引入打包。
-2. 查找使用externals排除vue后，报错问题。
+1. 验证element是否已是按需引入打包。已全部打包，若不需element提供插件，会全部打包。
 
-1. 添加formChange事件。
-2. table组件支持编辑功能。
+### 7.15 Wednesday
+1. 查找使用externals排除vue后，报错问题。已解决，复习并找原因。
+2. MessageBox报错，解决办法原因找到。
+3. 添加formChange事件。
+4. 开发导出页面。
 
 
-
-
+1. table组件支持编辑功能。
 1. 翻页参数修改。
 1. 将修改密码页面渲染到公共弹窗中。
 1. 雪碧图转icon图标。
