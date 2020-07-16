@@ -31,10 +31,12 @@
 
 ### 7.15 Wednesday
 1. 查找使用externals排除vue后，报错问题。已解决，复习并找原因。
-2. MessageBox报错，解决办法原因找到。
-3. 添加formChange事件。
-4. 开发导出页面。
+2. MessageBox报错，解决办法原因找到。完成！
 
+### 7.16 Thursday
+1. 总结extend用法。完成！
+2. 开发导出页面。
+3. 添加formChange事件。
 
 1. table组件支持编辑功能。
 1. 翻页参数修改。
