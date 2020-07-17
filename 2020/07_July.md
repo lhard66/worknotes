@@ -35,8 +35,14 @@
 
 ### 7.16 Thursday
 1. 总结extend用法。完成！
-2. 开发导出页面。
-3. 添加formChange事件。
+2. 开发导出页面。完成！
+
+### 7.17 Friday
+1. 集成iview中的table。
+2. 接口返回数据Number类型怎么处理了。
+
+## 7月20日 -- 7月26日
+1. 添加formChange事件。
 
 1. table组件支持编辑功能。
 1. 翻页参数修改。
