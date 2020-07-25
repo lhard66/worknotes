@@ -63,11 +63,19 @@
 2. 在线查看源码。完成！
 
 ### 7.24 Friday
+1. async-validator了解。
+
+### 7.25 Saturday
+1. 可编辑table正则校验。
+
 1. 展开行table示例。
 2. 树形数据table示例。
-2. 福建项目的权限平台集成，登录部分改造。
+4. exj-table和el-table的不同。
 
-1. async-validator了解。
+1. input 组件 增加只可输入数字功能.
+2. table 组件索引以总数据排序，而非当页排序。
+
+1. 福建项目的权限平台集成，登录部分改造。
 1. 添加formChange事件。
 1. 将修改密码页面渲染到公共弹窗中。
 1. 雪碧图转icon图标。
