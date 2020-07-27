@@ -63,17 +63,21 @@
 2. 在线查看源码。完成！
 
 ### 7.24 Friday
-1. async-validator了解。
+1. async-validator了解。完成！
 
 ### 7.25 Saturday
-1. 可编辑table正则校验。
+1. 可编辑table正则校验。完成！
+
+## 7月27日 -- 8月2日
+
+### 7.27 Monday
+1. input 组件 增加只可输入数字功能.
+2. table 组件索引以总数据排序，而非当页排序。
+3. exj-table和el-table的不同。
 
 1. 展开行table示例。
 2. 树形数据table示例。
-4. exj-table和el-table的不同。
 
-1. input 组件 增加只可输入数字功能.
-2. table 组件索引以总数据排序，而非当页排序。
 
 1. 福建项目的权限平台集成，登录部分改造。
 1. 添加formChange事件。
