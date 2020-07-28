@@ -71,12 +71,26 @@
 ## 7月27日 -- 8月2日
 
 ### 7.27 Monday
-1. input 组件 增加只可输入数字功能.
-2. table 组件索引以总数据排序，而非当页排序。
-3. exj-table和el-table的不同。
+1. input 组件 增加只可输入数字功能。完成！
+2. table 组件索引以总数据排序，而非当页排序。完成！
+3. select-tree的长度为200px，而不是185px。完成！
 
+### 7.28 Tuesday
 1. 展开行table示例。
 2. 树形数据table示例。
+3. 添加formChange事件。
+4. exj-table和el-table的不同。
+
+
+1. 解决excel导出列宽太小问题。
+1. MessageBox优化。
+1. grid文档。
+
+组件优化：
+
+2. table最大宽度问题，超出要加滚动条。
+3. table支持百分比方式。
+4. table右侧填充。
 
 
 1. 福建项目的权限平台集成，登录部分改造。
