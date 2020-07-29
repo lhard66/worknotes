@@ -76,15 +76,22 @@
 3. select-tree的长度为200px，而不是185px。完成！
 
 ### 7.28 Tuesday
-1. 展开行table示例。
+1. 提交数据之前table数据合法性验证。
+
+### 7.29 Wednesday
+1. table校验方法返回类型优化。
 2. 树形数据table示例。
+3. grid文档。
+4. form隐藏校验信息。
+
 3. 添加formChange事件。
-4. exj-table和el-table的不同。
+1. 展开行table示例。
+2. exj-table和el-table的不同。
 
 
 1. 解决excel导出列宽太小问题。
 1. MessageBox优化。
-1. grid文档。
+
 
 组件优化：
 
