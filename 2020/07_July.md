@@ -79,14 +79,24 @@
 1. 提交数据之前table数据合法性验证。
 
 ### 7.29 Wednesday
-1. table校验方法返回类型优化。
-2. 树形数据table示例。
-3. grid文档。
-4. form隐藏校验信息。
+1. table校验方法返回类型优化及校验其它优化。完成！
+   1. 页面刚加载，点击校验。cell没有撑开。完成！
+   2. 校验未通过，1px的border会把cell撑大。完成！
+2. 树形数据table示例。完成！
+3. 展开行table示例。完成！
+4. form隐藏校验信息。完成！
 
-3. 添加formChange事件。
-1. 展开行table示例。
-2. exj-table和el-table的不同。
+### 7.30 Thursday
+1. grid集成导出excel。
+2. grid分页排查问题。
+3. grid文档。
+4. 添加formChange事件。
+5. form若隐藏校验信息，则鼠标放到输入框上，显示校验错误。
+
+### 7.31 Friday
+1. 雪洁接口联调。
+1. exj-table和el-table的不同。
+
 
 
 1. 解决excel导出列宽太小问题。
@@ -101,11 +111,8 @@
 
 
 1. 福建项目的权限平台集成，登录部分改造。
-1. 添加formChange事件。
 1. 将修改密码页面渲染到公共弹窗中。
 1. 雪碧图转icon图标。
-1. table支持传入自定义标签（组件）。
-1. table表格分类功能。见微信图片。
 
 ## TODO:
 1. 极客时间专栏。
