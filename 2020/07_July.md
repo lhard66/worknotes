@@ -87,19 +87,17 @@
 4. form隐藏校验信息。完成！
 
 ### 7.30 Thursday
-1. grid集成导出excel。
-2. grid分页排查问题。
-3. grid文档。
-4. 添加formChange事件。
-5. form若隐藏校验信息，则鼠标放到输入框上，显示校验错误。
+1. grid集成导出excel。完成！
+2. grid文档。完成！
+3. 添加formChange事件，并测试。完成！
 
 ### 7.31 Friday
-1. 雪洁接口联调。
-1. exj-table和el-table的不同。
+1. form若隐藏校验信息，则鼠标放到输入框上，显示校验错误。
+2. 权限树形选择弹窗。
+3. exj-table和el-table的不同。
+4. 雪洁接口联调。
 
 
-
-1. 解决excel导出列宽太小问题。
 1. MessageBox优化。
 
 
