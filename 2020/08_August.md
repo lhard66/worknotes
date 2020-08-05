@@ -4,11 +4,18 @@
 1. 预警信息页面。待联调。
 
 ### 8.4 Tuesday
-1. form校验信息定位问题。
-2. 权限页面联调。
-3. 预警信息页面联调。
-4. MessageBox优化。
+1. form校验信息定位问题。完成！
+3. 预警信息页面联调。完成！
+4. MessageBox优化。完成！
 
+### 8.5 Wednesday
+1. table change事件和增加固定列出现横向滚动条功能。
+2. input-number组件开发。
+4. grid假分页，只能导出当前页数据。
+5. grid非整个对象赋值，也要触发watch。
+
+### 8.6 Thursday
+1. 权限页面联调。
 3. exj-table和el-table的不同。
 1. 雪洁图表接口联调。
 
