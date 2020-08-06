@@ -5,23 +5,22 @@
 
 ### 8.4 Tuesday
 1. form校验信息定位问题。完成！
-3. 预警信息页面联调。完成！
-4. MessageBox优化。完成！
+2. 预警信息页面联调。完成！
+3. MessageBox优化。完成！
 
 ### 8.5 Wednesday
-1. table change事件和增加固定列出现横向滚动条功能。
-2. input-number组件开发。
-4. grid假分页，只能导出当前页数据。
-5. grid非整个对象赋值，也要触发watch。
+1. table change事件和增加固定列出现横向滚动条功能。完成！每一列自定义列宽，以此实现固定列，并出现横向滚动条。
+2. input-number组件开发。完成！
+4. grid假分页，只能导出当前页数据。完成！
+5. grid非整个对象赋值，也要触发watch。完成！
 
 ### 8.6 Thursday
 1. 权限页面联调。
-3. exj-table和el-table的不同。
-1. 雪洁图表接口联调。
+2. exj-table和el-table的不同。
+3. 雪洁图表接口联调。
 
 
 组件优化：
-
 2. table最大宽度问题，超出要加滚动条。
 3. table支持百分比方式。
 4. table右侧填充。
