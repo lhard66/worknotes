@@ -94,6 +94,9 @@
 1. 修改jira上的bug。
 2. 给grid增加汇总功能。
 
+### 9.1 Tuesday
+1. grid汇总功能不展示问题。
+2. jira上bug。
 
 2. 基础组件bug：
    1. 可编辑表格高度bug。
