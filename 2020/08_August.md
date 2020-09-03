@@ -100,17 +100,22 @@
 ### 9.2 Wednesday
 1. 基础组件bug：
    1. 可编辑表格高度bug。完成！使用doLayout
-   2. 导出excel没有formatter。
+   2. 导出excel没有formatter。完成！
    3. select下拉框宽度限制。
    4. grid支持隐藏分页组件。完成！
-   5. utils模块格式化为tree方法，写文档。
+   5. utils模块格式化为tree方法，写文档。完成！
    6. grid可编辑，失去焦点后，行抖动问题。完成！
    7. 设置列为fixed时，横向滚动条拖不动。无需解决，大屏时不会出现。完成！
    8. echarts中legend为英文非中文问题。
-   9. excel导出增加标题功能。
+   9. excel导出增加标题功能。完成！
    10. 上传功能，支持slot内容
    11. icon图标乱码问题。
+   12. excel 宽度算法优化。完成！
 
+### 9.3 Thursday
+1. select下拉框宽度宽度限制。（测试bug）
+2. 解决福建项目echarts图表相关bug。
+3. 节点异常监测，数量为0时，突出显示，并且查看按钮置灰。
 
 1. 将修改密码页面渲染到公共弹窗中。
 1. 雪碧图转icon图标。
