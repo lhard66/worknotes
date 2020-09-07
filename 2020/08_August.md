@@ -116,7 +116,7 @@
    15. 按配置对cell内容进行居中、左对齐、右对齐。
    16. 设置timepicker默认格式。完成！
    17. 设置timepicker 和 datepicker 在form中的默认宽度。完成！
-   18. 封装autocomplete组件。
+   18. 封装autocomplete组件。完成！
    19. 暴露colorPicker组件。完成！
    20. 可编辑模式不显示tooltip。
 
@@ -124,6 +124,17 @@
 1. 解决福建项目echarts图表相关bug。完成！
 
 ### 9.4 Friday
+1. autocomplete组件。初始化完成！
+2. date-group组件。初始化完成！
+
+
+## 9月7日 -- 9月13日
+
+### 9.7 Monday
+1. autocomplete组件及文档。完成！
+2. date-group组件及文档。
+
+
 1. select下拉框宽度宽度限制。（测试bug）。
 2. 增加日期范围选择组件。
 3. 节点异常监测，数量为0时，突出显示，并且查看按钮置灰。
