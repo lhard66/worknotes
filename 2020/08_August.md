@@ -112,6 +112,13 @@
    11. icon图标乱码问题。
    12. excel 宽度算法优化。完成！
    13. 增加日期范围选择组件。
+   14. 导出excel增加序号。
+   15. 按配置对cell内容进行居中、左对齐、右对齐。
+   16. 设置timepicker默认格式。完成！
+   17. 设置timepicker 和 datepicker 在form中的默认宽度。完成！
+   18. 封装autocomplete组件。
+   19. 暴露colorPicker组件。完成！
+   20. 可编辑模式不显示tooltip。
 
 ### 9.3 Thursday
 1. 解决福建项目echarts图表相关bug。完成！
