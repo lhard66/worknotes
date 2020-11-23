@@ -61,7 +61,16 @@
 1. 处理bug。
 2. gulp压缩样式。
 
+## 11月23日 -- 11月29日
 
+### 11.23 Monday
+1. 自动化压缩。
+2. 接口错误弹窗UI。
+
+1. easyui、vue-admin。
+1. portainer。
+1. form对对象做验证。
+1. 限制dialog的高度。
 1. autocomplete增加后端过滤功能。
 3. 错误弹窗信息优化。
 1. 菜单页面自测、部署。
