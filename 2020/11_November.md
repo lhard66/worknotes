@@ -69,13 +69,17 @@
 3. dfview.css压缩。暂不解决，压缩后按钮样式异常。
 
 ### 11.24 Tuesday
-1. rsync。
-2. 弹窗优化。
-3. 地理信息系统log日志展示。
+1. rsync。完成！
+2. 自动化压缩。完成！
+3. 加载状态延迟消失功能。完成！
 
-1. 自动化压缩。
+### 11.25 Wednesday
+1. 弹窗优化。
+2. 地理信息系统log日志展示。
+3. portainer。
+
+
 1. easyui、vue-admin。
-1. portainer。
 1. 限制dialog的高度。
 1. autocomplete增加后端过滤功能。
 1. 刷新记录已打开标签。
