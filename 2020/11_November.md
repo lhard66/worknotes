@@ -74,9 +74,13 @@
 3. 加载状态延迟消失功能。完成！
 
 ### 11.25 Wednesday
+1. 符号设计器项目优化。完成！
+2. portainer。完成！
+
+### 11.26 Thursday
 1. 弹窗优化。
 2. 地理信息系统log日志展示。
-3. portainer。
+3. 符号设计器UI文件夹打包优化。
 
 
 1. easyui、vue-admin。
