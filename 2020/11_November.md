@@ -78,12 +78,17 @@
 2. portainer。完成！
 
 ### 11.26 Thursday
-1. 弹窗优化。
-2. 地理信息系统log日志展示。
-3. 符号设计器UI文件夹打包优化。
+1. package.json配置了解，优化绘图项目打包配置。
+2. npm 发版知识了解，优化绘图项目发版规则。
+3. 了解easyui。
 
+### 11.27 Friday
+1. 符号设计器UI文件夹打包优化。
+2. 弹窗优化。
+3. 地理信息系统log日志展示。
 
-1. easyui、vue-admin。
+1. eagle3中request弹出窗用MessageBox引入的方式。
+1. vue-admin。
 1. 限制dialog的高度。
 1. autocomplete增加后端过滤功能。
 1. 刷新记录已打开标签。
