@@ -91,16 +91,19 @@
 1. 弹窗优化。完成！
 
 ### 12.1 Tuesday
-1. 地理信息系统log日志展示。
-2. 页面刷新功能。
-3. eagle3中request弹出窗用MessageBox引入的方式。
+1. 页面刷新功能。完成！
+2. eagle3中request弹出窗用MessageBox引入的方式。完成！
 
-1. vue-admin。
+### 12.2 Wednesday
+1. 地理信息系统log日志展示。
+2. 菜单栏收起功能。
+3. vue-admin。
+4. 将信息放中message中。
+
 1. 限制dialog的高度。
 1. autocomplete增加后端过滤功能。
 1. 刷新记录已打开标签。
 1. 缓存userinfo接口。
-1. 将信息放中message中。
 1. 智能立项，标签数据优化。
 1. 框架要做的功能。
    1. 404页面。
@@ -109,6 +112,9 @@
 1. 培训总结。
 1. 将修改密码页面渲染到公共弹窗中。
 1. 雪碧图转icon图标。
+培训：
+1. commonFetch模块用法。
+2. 查询表格通用组件用法。
 
 ## TODO:
 1. 极客时间专栏。
