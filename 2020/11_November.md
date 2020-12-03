@@ -95,16 +95,20 @@
 2. eagle3中request弹出窗用MessageBox引入的方式。完成！
 
 ### 12.2 Wednesday
-1. 地理信息系统log日志展示。
-2. 菜单栏收起功能。
-3. vue-admin。
-4. 将信息放中message中。
+1. 菜单栏收起功能。细节样式还需处理。
+2. 将信息放中message中。完成！
 
+### 12.3 Thursday
+1. 地理信息系统log日志展示。
+2. 缓存userinfo接口。
+3. 菜单栏收起优化。
+
+1. vue-admin。
 1. 限制dialog的高度。
 1. autocomplete增加后端过滤功能。
 1. 刷新记录已打开标签。
-1. 缓存userinfo接口。
 1. 智能立项，标签数据优化。
+1. 菜单搜索功能
 1. 框架要做的功能。
    1. 404页面。
    2. 菜单搜索功能。
