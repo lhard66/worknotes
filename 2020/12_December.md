@@ -4,9 +4,12 @@
 1. cookie.js了解。
 2. 基础组件专利文档编写。 
 
+### 12.8 Tuesday
+1. 绘图项目分支合并，及UI模块打包优化。
+2. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
+
 1. vue-admin了解。
 1. 缓存userinfo接口。
-1. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
 1. 限制dialog的高度。
 1. autocomplete增加后端过滤功能。
 1. 刷新还原已打开标签。
