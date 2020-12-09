@@ -6,6 +6,9 @@
 
 ### 12.8 Tuesday
 1. 绘图项目分支合并，及UI模块打包优化。
+
+### 12.9 Wednesday
+1. 符号设计器UI文件夹文件拆分。
 2. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
 
 1. vue-admin了解。
