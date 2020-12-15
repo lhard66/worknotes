@@ -8,9 +8,15 @@
 1. 绘图项目分支合并，及UI模块打包优化。
 
 ### 12.9 Wednesday
-1. 符号设计器UI文件夹文件拆分。
-2. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
+1. 符号设计器UI文件夹文件拆分。无法拆分。
 
+## 12月14日 -- 12月20日
+
+### 12.16 Tuesday
+1. 制造异步请求，并通过配置解决。
+2. 创建绘图画板。
+
+1. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
 1. vue-admin了解。
 1. 缓存userinfo接口。
 1. 限制dialog的高度。
