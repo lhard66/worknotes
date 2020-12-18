@@ -19,6 +19,9 @@
 1. 创建绘图画板。
 2. 总结改造文档。
 
+### 12.18 Friday
+1. 传入画布，显示图原。
+
 1. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
 1. vue-admin了解。
 1. 缓存userinfo接口。
