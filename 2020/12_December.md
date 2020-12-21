@@ -22,8 +22,14 @@
 ### 12.18 Friday
 1. 传入画布，显示图原。
 
+## 12月21日 -- 12月27日
+
+### 12.1 Monday
+1. vue-admin了解。完成！
+2. Json传入绘制图形了解。
+
+
 1. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
-1. vue-admin了解。
 1. 缓存userinfo接口。
 1. 限制dialog的高度。
 1. autocomplete增加后端过滤功能。
