@@ -29,28 +29,15 @@
 2. Json传入绘制图形了解。
 
 ### 12.24 Thursday
-1. tsconfig.json了解加入的配置作用。
-2. 解决传入图形数据后，不展示的问题。
-3. ts-loader之前，加入cache-loader。
+1. tsconfig.json了解加入的配置作用。完成！
+2. 解决传入图形数据后，不展示的问题。完成！
+3. ts-loader之前，加入cache-loader。完成！
 
-1. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
-1. 缓存userinfo接口。
-1. 限制dialog的高度。
-1. autocomplete增加后端过滤功能。
-1. 刷新还原已打开标签。
-1. 智能立项，标签数据优化。
-1. 菜单搜索功能
-1. 框架要做的功能。
-   1. 404页面。
-   2. 菜单搜索功能。
-1. 下拉列表弹窗要放在body标签下。
-1. 拦截多次点击发出请求。
-1. 将修改密码页面渲染到公共弹窗中。
-1. 雪碧图转icon图标。
-培训：
-1. commonFetch模块用法。
-2. 查询表格通用组件用法。
+### 12.25 Friday
+1. 解决TODO部分。
 
+
+1. 画板标尺。
 ## TODO:
 1. 极客时间专栏。
 2. 油管兄弟连linux。完成！
