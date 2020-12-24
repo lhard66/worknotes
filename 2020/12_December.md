@@ -28,6 +28,10 @@
 1. vue-admin了解。完成！
 2. Json传入绘制图形了解。
 
+### 12.24 Thursday
+1. tsconfig.json了解加入的配置作用。
+2. 解决传入图形数据后，不展示的问题。
+3. ts-loader之前，加入cache-loader。
 
 1. actions 中可以使用commit。将mutations中使用commit的项目改为actions。
 1. 缓存userinfo接口。
