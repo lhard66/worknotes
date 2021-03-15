@@ -35,9 +35,14 @@
 2. select多选支持展示多个选中项。暂不处理，与elementUI保持一致。
 
 ### 3.13 Saturday
-1. selectTree，下拉列表加在body	下。
-2. selectTree，选择首个后，子项会级联选中。
-3. 前端微服务。
+1. selectTree，下拉列表加在body	下，则非当前组件中。完成!
+2. selectTree，选择首个后，子项会级联选中。设计逻辑问题，不需要处理。
+
+## 3月15日 -- 3月21日
+
+### 3.15 Monday
+1. 前端微服务。
+2. 测试selectTree组件。
 
 
 
