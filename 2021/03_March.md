@@ -90,6 +90,12 @@
 1. workbench的属性编辑器的插槽功能。完成!
 
 ### 4.1 Thursday
+1. 点击工具条按钮无响应问题。
+
+### 4.2 Friday
+1. eagle3刷新失效问题。
+1. 新建jira任务。
+
 1. 单个form组件回车刷新问题。
 2. input-number组件加载后，改变值为number类型，表单验证报错。
 3. icon图标优化。
