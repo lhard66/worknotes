@@ -8,6 +8,9 @@
 2. v2ray官网学习。配置看过一下，自己根据配置创建文字，连接失败，改用v2raya和qv2ray生成配置。
 
 ### 5.3 Friday
+3. 检查form分组功能的问题。
+
+### 5.4 Saturday
 1. grid支持正则校验。
 2. grid集成formula功能。
 
