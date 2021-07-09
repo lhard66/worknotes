@@ -90,23 +90,24 @@
 ### 7.6 Tuesday
 1. 解决子应用destroy调用与unmount调用先后顺序问题。完成！
 
-### 7.7 Wednesday Thursday
-1. dfview在jenkins自动打包配置。
-2. form验证增加对统用名字的校验。
+### 7.7 Wednesday 7.8 Thursday
+1. dfview在jenkins自动打包配置。完成！
+2. form验证增加对统用名字的校验。完成！
 3. grid组件和pagination组件，增加一页条数配置属性。完成！
-4. 微应用问题：
+
+### 7.9 Friday
+1. 微应用问题：
    1. 二级标签切换后，一级标签再次切换回来，应展示最后选中的二级标签。此问题根据URL路由到对应的页面，无问题。
    2. qiankun子应用store对象不销毁问题。有问题，暂搁置。
+2. babel学习。完成！
 
 ----------------------
 ## backlog
-1. 福建项目bug。
 1. 错误弹窗的优化。
 
 ----------------------
 ## 规划
 1. umi乌米学习。
-1. babel学习。
 1. 极客时间，设计模式。
 1. 极客时间，Linux。
 
